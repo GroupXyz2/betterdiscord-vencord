@@ -5,7 +5,7 @@
  * @description Öffnet die Entwicklerkonsole mit Strg+Umschalt+I.
  * @website https://github.com/GroupXyz2
  * @source https://github.com/GroupXyz2/betterdiscord/consoleKey.plugin.js
- * @updateUrl https://github.com/GroupXyz2/betterdiscord/consoleKey.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/GroupXyz2/betterdiscord/refs/heads/main/consoleKey.plugin.js
  */
 
 module.exports = class OpenConsole {
